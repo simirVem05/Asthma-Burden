@@ -1,0 +1,15 @@
+pandas
+geopandas
+sqlalchemy
+psycopg2-binary
+requests
+python-dotenv
+shapely
+scipy
+statsmodels
+matplotlib
+seaborn
+pygam
+folium
+rtree
+pyarrow

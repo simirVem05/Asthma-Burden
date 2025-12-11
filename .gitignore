@@ -1,0 +1,9 @@
+.env
+Data management Interim report.pdf
+Asthma Burden Project Proposal (1).pdf
+data/
+*.parquet
+*.gz
+*.zip
+
+venv/
